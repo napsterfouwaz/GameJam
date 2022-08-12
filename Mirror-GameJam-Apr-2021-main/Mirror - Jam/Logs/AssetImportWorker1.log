@@ -1421,3 +1421,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1243.399977 seconds.
+  path: Assets/Colors/New Material 5.mat
+  artifactKey: Guid(5ccd561f5ee92cd47a8d9e9d60385547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Colors/New Material 5.mat using Guid(5ccd561f5ee92cd47a8d9e9d60385547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c5c68fa7d11d972cdc702801602926') in 0.067670 seconds 
